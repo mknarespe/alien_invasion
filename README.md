@@ -14,7 +14,7 @@ ___
 ## How to play:
 ### 1. After dowloading the files, open alien_invasion.py with command line or in any other option 
 ### 2. Click 'Play'
-### 3. Move with the ⬅️ and ➡️, shoot with **spase**
+### 3. Move with the ⬅️ and ➡️, shoot with a ***spase***
 ### 4. Press 'Q' to quit the game
 ___
 ## Project structure:
