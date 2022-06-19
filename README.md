@@ -10,6 +10,7 @@ ___
 # ⠀⠀⠀⠀⠀⠀⠀  :sunglasses:
 ___
 ### U can easily [download](https://github.com/mknarespe/alien_invasion/archive/refs/heads/main.zip) the game-project & check it out for yourself
+___
 ## How to play:
 ### 1. After dowloading the files, open alien_invasion.py with command line or in any other option 
 ### 2. Click 'Play'
