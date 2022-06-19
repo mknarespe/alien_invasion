@@ -19,7 +19,7 @@ ___
 ___
 ## Project structure:
 ### • There are 8 .py files, with the _'alien_invasion.py'_ as a main **run** file
-### • Throuth _'settings.py'_ you can manage with all game settings, such as _background color_ or _sheep speed_ or _bullet width_
+### • Throuth _'settings.py'_ you can manage with all game settings, such as _background color_ or _ship speed_ or _bullet width_
 ### • Each class has its own attributes, and connects to a main instance of the game called _ai_game_. That allows you to conveniently manage all processes separately
 ___
 ## Thank you for the view! Have a good day ☀️
